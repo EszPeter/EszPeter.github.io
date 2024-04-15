@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(rgb(0, 119, 255),purple);
+    background-attachment: fixed;
+    width:600px; 
+    font-size: 2em;  
+}
+h3{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+
+.tartalom{
+    border: 1px dashed rgb(136, 204, 243);
+    max-width: 500px;
+    text-align: center;
+    position: relative;
+    left: 650px;
+    top: 300px;
+    padding: 20px;
+}
+
+a:hover{
+    color: rgb(6, 151, 151);
+}
+
+h1{
+    font-size: 1.4em;
+}
